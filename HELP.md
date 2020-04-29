@@ -1,7 +1,6 @@
 # Brasilprev - Desafio Java
 
-### Um projeto simples para ser avaliado
+### Um projeto simples de uma loja. Não há banco de dados, o projeto implementa uma lista com produtos
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/maven-plugin/)
-* [Spring Web Services](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/reference/htmlsingle/#boot-features-webservices)
+Segue junto ao projeto uma coleção para ser usada no Postman para testes.
+O sistema contém testes unitários
